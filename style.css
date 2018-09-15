@@ -8,3 +8,6 @@ beginning {
 p {
   font-size: 12pt;
 	}
+body {
+	font-family: Courier, monospace;
+	}
